@@ -33,7 +33,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge" style="background-color: #fff9c4; color: #222;">ISPRS 2026</div>
+    <div class="badge" style="font-family: 'Times New Roman', Times, serif;">ISPRS 2026</div>
     <img src='images/tasselnetv4.png' alt="TasselNetV4" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -41,16 +41,14 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
     <br>
     Xiaonan Hua, Xuebing Li, <strong>Jinyu Xu</strong>, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu
     <br>
-    <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2026. (IF: 12.2)
+    <span style="background-color: #fff9c4; font-family: 'Times New Roman', Times, serif; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing, 2026. (IF: 12.2)</span>
     <br>
-    <span style="background-color: #fff9c4; padding: 2px 5px; border-radius: 3px; font-size: 0.9em;">ISPRS 2026</span>
+    <a href="https://arxiv.org/abs/2509.20857"><strong>Paper</strong></a> | 
+    <a href="https://github.com/tiny-smart/TasselNetV4/"><strong>Code</strong></a> | 
+    <a href="https://huggingface.co/akaxiao/TasselNetV4"><strong>Model</strong></a> | 
+    <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ"><strong>Social Media</strong></a>
     <br>
-    <a href="https://arxiv.org/abs/2509.20857">Paper</a> | 
-    <a href="https://github.com/tiny-smart/TasselNetV4/">Code</a> | 
-    <a href="https://huggingface.co/akaxiao/TasselNetV4">Model</a> | 
-    <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ">Social Media</a>
-    <br>
-    • This work defines Plant Agnostic Counting (PAC), a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
+    <strong>&#8226;</strong> This work defines <strong>Plant Agnostic Counting (PAC)</strong>, a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
   </div>
 </div>
 
