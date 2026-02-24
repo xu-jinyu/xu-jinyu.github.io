@@ -34,7 +34,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge" style="font-family: 'Times New Roman', Times, serif;">ISPRS 2026</div>
-    <img src='images/tasselnetv4.png' alt="TasselNetV4" width="100%">
+    <img src='../images/tasselnetv4.png' alt="TasselNetV4" width="100%">
   </div>
   <div class='paper-box-text'>
     <strong>TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting</strong>
@@ -48,7 +48,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
     <a href="https://huggingface.co/akaxiao/TasselNetV4"><strong>Model</strong></a> | 
     <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ"><strong>Social Media</strong></a>
     <br>
-    <strong>&#8226;</strong> This work defines <strong>Plant Agnostic Counting (PAC)</strong>, a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
+    <strong>&#8226; This work defines Plant Agnostic Counting (PAC), a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
   </div>
 </div>
 
