@@ -42,17 +42,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2025.10 & 2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
-- *2025.10 & 2024.10*, **Merit Student**, Huazhong University of Science and Technology.
+# 🏆 Honors and Awards
+- *2025.10 and 2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
+- *2025.10 and 2024.10*, **Merit Student**, Huazhong University of Science and Technology.
 - *2025.05*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
