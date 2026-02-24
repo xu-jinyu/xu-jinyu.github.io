@@ -31,19 +31,28 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ISPRS 2026</div>
+    <img src='/assets/images/TasselNetV4_thumbnail.png' alt="TasselNetV4" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/abs/2509.20857"><strong>TasselNetV4: Plant-Agnostic Counting via Cross-Taxonomic Zero-Shot Generalization</strong></a>
+    <br>
+    Xiaonan Hua, Xuebing Li, <strong>Jinyu Xu</strong>, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu
+    <br>
+    <em>ISPRS Journal of Photogrammetry and Remote Sensing</em>, 2026. (IF: 12.2)
+    <br>
+    <a href="https://arxiv.org/abs/2509.20857">Paper</a> | 
+    <a href="https://github.com/tiny-smart/TasselNetV4/">Code</a> | 
+    <a href="https://huggingface.co/akaxiao/TasselNetV4">Model</a> | 
+    <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ">Social Media</a>
+    <br>
+    We introduce <strong>Plant Agnostic Counting (PAC)</strong>, a new plant-orientated task that adapts class-agnostic counting into the plant domain, emphasizing zero-shot generalization across taxonomic plant species. We provide <strong>PAC-105</strong> and <strong>PAC-Somalia</strong>, two challenging datasets for training and evaluating daily and out-of-distribution species. Finally, we propose <strong>TasselNetV4</strong>, an extended and robust version of the TasselNet series for precision plant counting.
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
 - *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
