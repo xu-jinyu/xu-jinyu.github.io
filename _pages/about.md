@@ -33,26 +33,20 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge" style="font-family: 'Times New Roman', Times, serif;">ISPRS 2026</div>
-    <img src='../images/tasselnetv4.png' alt="TasselNetV4" width="100%">
+    <div>
+      <div class="badge" style="font-family: 'Times New Roman', Times, serif;">ISPRS 2026</div>
+      <img src='images/tasselnetv4.png' alt="TasselNetV4" width="100%">
+    </div>
   </div>
-  <div class='paper-box-text'>
-    <strong>TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting</strong>
-    <br>
-    Xiaonan Hua, Xuebing Li, <strong>Jinyu Xu</strong>, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu
-    <br>
-    <span style="background-color: #fff9c4; font-family: 'Times New Roman', Times, serif; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing, 2026. (IF: 12.2)</span>
-    <br>
-    <a href="https://arxiv.org/abs/2509.20857"><strong>Paper</strong></a> | 
-    <a href="https://github.com/tiny-smart/TasselNetV4/"><strong>Code</strong></a> | 
-    <a href="https://huggingface.co/akaxiao/TasselNetV4"><strong>Model</strong></a> | 
-    <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ"><strong>Social Media</strong></a>
-    <br>
-    <strong>&#8226; This work defines Plant Agnostic Counting (PAC), a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
-  </div>
-</div>
+  <div class='paper-box-text' markdown="1">
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+[**TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting**](https://arxiv.org/abs/2509.20857) \\
+Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
+<span style="background-color: #fff9c4; color: #333; padding: 4px 12px; border-radius: 6px; font-weight: bold; font-family: 'Times New Roman', Times, serif;"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, 2026. (IF: 12.2)</span> \\
+[**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
+&#8226; This work defines Plant Agnostic Counting (PAC), a task focusing on zero-shot generalization across various plant species. We provide two benchmark datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
+</div>
+</div>
 
 # 🏆 Honors and Awards
 - *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
