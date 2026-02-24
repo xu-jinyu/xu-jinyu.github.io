@@ -35,7 +35,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="font-family: 'Times New Roman', Times, serif;">CVPR 2026</div>
-      <img src='images/cvpr2026.png' alt="CVPR2026" width="100%">
+      <img src='images/cvpr2026.png' alt="CVPR2026" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
