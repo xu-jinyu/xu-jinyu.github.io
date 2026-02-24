@@ -41,8 +41,8 @@ I am Jinyu Xu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Honors and Awards
-- *2025.10 and 2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
-- *2025.10 and 2024.10*, **Merit Student**, Huazhong University of Science and Technology.
+- *2025.10 & 2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
+- *2025.10 & 2024.10*, **Merit Student**, Huazhong University of Science and Technology.
 - *2025.05*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
 
 # 📖 Educations
