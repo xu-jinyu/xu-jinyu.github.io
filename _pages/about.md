@@ -19,11 +19,11 @@ redirect_from:
 
 Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology (HUST). My research interests include **computer vision**, **computer graphics**, and **AI for natural sciences**.
 
-I am currently conducting research advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), focusing on visual dense prediction problems such as dense object counting and fine-grained plant phenotyping. Recently, I am honored to have a **first-author** paper accepted at **CVPR 2026**.
+I am currently conducting research advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), focusing on visual dense prediction problems such as dense object counting and fine-grained plant phenotyping. Recently, I am honored to have a **first-author paper accepted at CVPR 2026**.
 
 I strive to uncover underlying regularities and principles from deep insights. Based on these, I aim to develop simple yet effective solutions for real-world problems.
 
-Currently, I am actively seeking PhD opportunities (starting Fall 2027) and research internships. Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exchanges or potential collaborations.
+<span style="color: #e74c3c;">Currently, I am actively seeking **PhD opportunities (starting Fall 2027)** and **research internships**.</span> Please feel free to reach out via [jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn) for any academic exchanges or potential collaborations.
 
 <!-- # 🔥 News
 - *2026.02*, One paper is accepted by **CVPR 2026**.
