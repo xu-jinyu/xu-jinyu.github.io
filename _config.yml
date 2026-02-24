@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "jinyu-xu"
-description              : "Exploring the beauty behind visual intelligence."
+description              : "Exploring the beauty of visual intelligence."
 repository               : "EnterUniverse/EnterUniverse.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinyu Xu"
-  avatar           : "images/xjy2.jpg"
+  avatar           : "images/xjy.jpg"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
