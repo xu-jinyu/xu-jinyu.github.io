@@ -35,7 +35,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="font-family: 'Times New Roman', Times, serif;">ISPRS 2026</div>
-      <img src='images/tasselnetv4.png' alt="TasselNetV4" width="100%">
+      <img src='images/tasselnetv4.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
