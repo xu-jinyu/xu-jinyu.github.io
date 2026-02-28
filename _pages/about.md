@@ -31,7 +31,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="font-family: 'Times New Roman', Times, serif;">CVPR 2026</div>
@@ -46,7 +46,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 [**Paper**](#) | [**Code**](#) | [**Model**](#) \\
 &#8226; This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 </div>
-</div> -->
+</div>
 
 
 <div class='paper-box'>
