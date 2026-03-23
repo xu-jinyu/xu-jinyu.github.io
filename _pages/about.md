@@ -81,9 +81,9 @@ Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui
 
 
 # 🎨 Hobbies
-Beyond my research, I find inspiration in different forms of art:
-- **Calligraphy**: I find peace in traditional calligraphy, where I appreciate the delicate balance of structure and the rhythmic beauty of ink lines.
-- **Movies**: As a cinema enthusiast, I enjoy exploring diverse narratives and occasionally documenting my perspectives through thoughtful film reviews and critiques.
+Beyond my research, I enjoy exploring different forms of art:
+- **Calligraphy**: I enjoy practicing calligraphy to stay focused and appreciate the beauty of its structure and lines.
+- **Movies**: I’m a big movie fan who loves exploring different stories and occasionally sharing my thoughts in reviews.
 
 
 <!-- # 💬 Invited Talks
