@@ -79,6 +79,13 @@ Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
 
+
+# 🎨 Hobbies
+Beyond my research, I enjoy exploring different forms of art and storytelling:
+- **Calligraphy**: I have a keen interest in traditional calligraphy, which helps me maintain focus and appreciate the beauty of structure and lines.
+- **Movies**: I am a movie enthusiast and enjoy exploring diverse cinematic narratives.
+
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
