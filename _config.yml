@@ -9,7 +9,7 @@
 title                    : "Jinyu Xu"
 description              : "Exploring the beauty of visual intelligence."
 repository               : "xu-jinyu/xu-jinyu.github.io"
-google_scholar_stats_use_cdn : true
+# google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : "G-G63NN1K5MH"

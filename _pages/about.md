@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -81,9 +81,9 @@ Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui
 
 
 # 🎨 Hobbies
-Beyond my research, I enjoy exploring different forms of art and storytelling:
-- **Calligraphy**: I have a keen interest in traditional calligraphy, which helps me maintain focus and appreciate the beauty of structure and lines.
-- **Movies**: I am a movie enthusiast and enjoy exploring diverse cinematic narratives.
+Beyond my research, I find inspiration in different forms of art:
+- **Calligraphy**: I find peace in traditional calligraphy, where I appreciate the delicate balance of structure and the rhythmic beauty of ink lines.
+- **Movies**: As a cinema enthusiast, I enjoy exploring diverse narratives and occasionally documenting my perspectives through thoughtful film reviews and critiques.
 
 
 <!-- # 💬 Invited Talks
