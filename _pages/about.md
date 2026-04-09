@@ -42,7 +42,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 [**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
-<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026</span> \\
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral</span> \\
 [**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) \\
 This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 </div>
@@ -59,7 +59,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 
 [**TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting**](https://arxiv.org/abs/2509.20857) \\
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
-<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing, 2026 (IF: 12.2)</span> \\
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026</span> \\
 [**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
 This work defines Plant Agnostic Counting, a task focusing on zero-shot generalization across various species. We provide two datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
 </div>
