@@ -43,7 +43,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 [**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral</span> \\
-[**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) \\
+[**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) | [**Project Page**](https://tiny-smart.github.io/tpc268-project-page) | [**Social Media**](https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ) \\
 This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 </div>
 </div>
