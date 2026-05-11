@@ -78,7 +78,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
 Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Computers & Graphics 2026</span> \\
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) | [**Code**](https://github.com/Jialing25y/BRecStitch) \\
-This work proposes BRecStitch, the first end-to-end unsupervised network that incorporates boundary rectification into image stitching. By leveraging bidirectional warping and a novel differentiable boundary loss, it achieves a superior balance between content alignment and rectangular boundary regularity.
+BRecStitch introduces the first end-to-end unsupervised framework for image stitching and rectification, balancing alignment and regularity via bidirectional warping and a differentiable boundary loss.
 </div>
 </div>
 
