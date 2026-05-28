@@ -8,27 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 
 Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Vision**, **Computer Graphics**, **AI for Sciences** and **LLM Security**.
 
-I am currently conducting research advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), focusing on visual dense prediction problems such as dense object counting and fine-grained plant phenotyping. Recently, I am honored to have a first-author paper accepted at CVPR 2026 as an Oral presentation. Previously, I was a research intern at the State Key Laboratory for Novel Software Technology, Nanjing University, where I worked on the compliance assessment of multi-party large language models (LLMs).
+I am currently conducting research advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), focusing on visual dense prediction problems, a broad range of tasks that deal with per-pixel labeling such as dense object counting and fine-grained visual plant phenotyping. I am particularly interested in developing simple yet effective solutions to problems in reality from deep, novel insights.
 
-I strive to uncover underlying regularities and principles from deep insights. Based on these, I aim to develop simple yet effective solutions for real-world problems.<span style="color: #e74c3c;"> Currently, I am actively seeking PhD opportunities (starting Fall 2027) and research internships.</span> 
-
-Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exchanges or potential collaborations.
-
-<!-- # 🔥 News
-- *2026.02*, One paper is accepted by **CVPR 2026**.
-- *2025.12*, One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. -->
-
+I am actively seeking Ph.D. opportunities (starting Fall 2027) and open to research internships. Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any discussion or collaboration.
 # 📝 Publications 
 
 <div class='paper-box'>
@@ -42,7 +28,7 @@ Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any academic exch
 
 [**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
-<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral</span> \\
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral <span style="color: #c0392b;">(Best Paper Award Candidate)</span></span> \\
 [**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) | [**Project Page**](https://tiny-smart.github.io/tpc268-project-page) | [**Social Media**](https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ) \\
 This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 </div>
@@ -91,21 +77,18 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 - *2025-2026*, National Undergraduate Training Projects for Innovation and Entrepreneurship, As the host.
 - *2025-2026*, Undergraduate Natural Science Innovation Fund Program of Huazhong University of Science and Technology.
 
+# 💬 Invited Activities
+- *2026.5*, **Poster Presenter**, Vision And Learning SEminar (VALSE). 
+- *2026.5*, **Poster Presenter**, China Society of Image and Graphics (CSIG) Conference. 
+
+# 💻 Internships
+- *2024.11 - 2025.11*, **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University. 
+  - Focused on the compliance assessment of multi-party large language models (LLMs).
 
 # 📖 Educations
-- *2023.09 - 2027.06 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
-
+- *2023.9 - 2027.6 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
 
 # 🎨 Hobbies
 Beyond my research, I enjoy exploring different forms of art:
 - **Calligraphy**: I enjoy practicing calligraphy to stay focused and appreciate the beauty of its structure and lines.
 - **Movies**: I’m a big movie fan who loves exploring different stories and occasionally sharing my thoughts in reviews.
-
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
