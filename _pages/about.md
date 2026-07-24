@@ -98,10 +98,10 @@ This work proposes TrustDA, a dataset refinement framework that improves LLM tru
 - *2026.5*, **Poster Presenter**, China Society of Image and Graphics (CSIG) Conference. 
 
 # 💻 Internships
-- Research Intern, The Graphics and Geometric Computing Lab, Tsinghua University.  
-  Worked on video-based semantic scene modeling with procedural 3D representations.
-- Research Intern, State Key Laboratory for Novel Software Technology, Nanjing University.  
-  Worked on the compliance assessment of multi-party large language models (LLMs).
+- **Research Intern**, The Graphics and Geometric Computing Lab, Tsinghua University.  
+  - Worked on video-based semantic scene modeling with procedural 3D representations.
+- **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University.  
+  - Worked on the compliance assessment of multi-party large language models (LLMs).
 
 # 📖 Educations
 - *2023.9 - 2027.6 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
