@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Graphics** and **Computer Vision**.
 
-Broadly, I am interested in what limited visual observations can reveal about the world, especially the underlying structure beyond what is directly visible. Advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I have worked on visual dense prediction, studying pixel-level visual understanding in tasks such as dense object counting and fine-grained plant phenotyping.
+Broadly, I am interested in what limited visual observations can tell us about the world, from the appearance captured in images to the hidden order behind it. Advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I have worked on visual dense prediction, studying pixel-level visual understanding in tasks such as dense object counting and fine-grained plant phenotyping.
 
 Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
 
@@ -82,7 +82,7 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026</span> \\
 [**Paper**](https://doi.org/10.1016/j.infsof.2026.108249) \\
-This work proposes TrustDA, a general dataset refinement framework for efficient and reliable LLM trustworthiness evaluation. By combining data distillation with semantics-preserving augmentation, TrustDA reduces evaluation costs while mitigating inflated benchmark performance caused by data contamination.
+This work proposes TrustDA, a dataset refinement framework that improves LLM trustworthiness evaluation by reducing evaluation costs and mitigating inflated benchmark scores.
 </div>
 </div>
 
@@ -92,8 +92,6 @@ This work proposes TrustDA, a general dataset refinement framework for efficient
 - *2025.05*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
 - *2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
 - *2024.10*, **Merit Student**, Huazhong University of Science and Technology.
-<!-- - *2025-2026*, National Undergraduate Training Projects for Innovation and Entrepreneurship, As the host.
-- *2025-2026*, Undergraduate Natural Science Innovation Fund Program of Huazhong University of Science and Technology. -->
 
 # 💬 Invited Activities
 - *2026.5*, **Poster Presenter**, Vision And Learning SEminar (VALSE). 
