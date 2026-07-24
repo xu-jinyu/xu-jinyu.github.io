@@ -10,18 +10,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Vision**, **Computer Graphics**, **AI for Sciences** and **LLM Security**.
+Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Graphics** and **Computer Vision**.
 
-I am currently conducting research advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), focusing on visual dense prediction problems, a broad range of tasks that deal with per-pixel labeling such as dense object counting and fine-grained visual plant phenotyping. I am particularly interested in developing simple yet effective solutions to problems in reality from deep, novel insights.
+Broadly, I am interested in what limited visual observations can reveal about the world, especially the underlying structure beyond what is directly visible. Advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I have worked on visual dense prediction, studying pixel-level visual understanding in tasks such as dense object counting and fine-grained plant phenotyping.
 
-I am actively seeking Ph.D. opportunities (starting Fall 2027) and open to research internships. Please feel free to reach out via **jinyu_xu@hust.edu.cn** for any discussion or collaboration.
+Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
+
 # 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026 Oral</div>
-      <img src='images/cvpr2026.png' alt="CVPR2026" width="100%">
+      <img src='images/cvpr2026.png' alt="CVPR2026" width="95%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -38,7 +39,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
   <div class='paper-box-image'>
     <div>
       <div class="badge">ISPRS 2026</div>
-      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="100%">
+      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="95%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -55,7 +56,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
   <div class='paper-box-image'>
     <div>
       <div class="badge">CAG 2026</div>
-      <img src='images/cag2026.png' alt="BRecStitch" width="100%">
+      <img src='images/cag2026.png' alt="BRecStitch" width="95%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -68,21 +69,38 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IST 2026</div>
+      <img src='images/ist2026.png' alt="TrustDA" width="95%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Enhancing trustworthiness evaluation of Large Language Models through dataset refinement**](https://doi.org/10.1016/j.infsof.2026.108249) \\
+Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026</span> \\
+[**Paper**](https://doi.org/10.1016/j.infsof.2026.108249) \\
+This work proposes TrustDA, a general dataset refinement framework for efficient and reliable LLM trustworthiness evaluation. By combining data distillation with semantics-preserving augmentation, TrustDA reduces evaluation costs while mitigating inflated benchmark performance caused by data contamination.
+</div>
+</div>
+
 # 🏆 Honors and Awards
 - *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
 - *2025.10*, **Merit Student**, Huazhong University of Science and Technology.
 - *2025.05*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
 - *2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
 - *2024.10*, **Merit Student**, Huazhong University of Science and Technology.
-- *2025-2026*, National Undergraduate Training Projects for Innovation and Entrepreneurship, As the host.
-- *2025-2026*, Undergraduate Natural Science Innovation Fund Program of Huazhong University of Science and Technology.
+<!-- - *2025-2026*, National Undergraduate Training Projects for Innovation and Entrepreneurship, As the host.
+- *2025-2026*, Undergraduate Natural Science Innovation Fund Program of Huazhong University of Science and Technology. -->
 
 # 💬 Invited Activities
 - *2026.5*, **Poster Presenter**, Vision And Learning SEminar (VALSE). 
 - *2026.5*, **Poster Presenter**, China Society of Image and Graphics (CSIG) Conference. 
 
 # 💻 Internships
-- *2024.11 - 2025.11*, **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University. 
+- **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University. 
   - Focused on the compliance assessment of multi-party large language models (LLMs).
 
 # 📖 Educations
