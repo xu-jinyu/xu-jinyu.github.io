@@ -12,7 +12,8 @@ redirect_from:
 
 Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Graphics** and **Computer Vision**.
 
-Broadly, I am interested in what limited visual observations can tell us about the world, from the appearance captured in images to the hidden order behind it. Advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I have worked on visual dense prediction, studying pixel-level visual understanding in tasks such as dense object counting and fine-grained plant phenotyping.
+I am interested in what limited visual observations can tell us about the world, from the appearance captured in images to the hidden order behind it. 
+Advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I have worked on visual dense prediction, studying pixel-level visual understanding in tasks such as dense object counting and fine-grained plant phenotyping.
 
 Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
 
