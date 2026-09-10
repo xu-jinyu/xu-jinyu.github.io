@@ -26,7 +26,7 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026 Oral</div>
-      <img src='images/cvpr2026.png' alt="CVPR2026" width="90%">
+      <img src='images/cvpr2026.png' alt="CVPR2026" width="88%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -43,7 +43,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
   <div class='paper-box-image'>
     <div>
       <div class="badge">ISPRS 2026</div>
-      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="90%">
+      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="88%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -60,7 +60,7 @@ This work introduces Plant Agnostic Counting for zero-shot counting across speci
   <div class='paper-box-image'>
     <div>
       <div class="badge">CAG 2026</div>
-      <img src='images/cag2026.png' alt="BRecStitch" width="90%">
+      <img src='images/cag2026.png' alt="BRecStitch" width="88%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -77,7 +77,7 @@ This work presents BRecStitch, an end-to-end unsupervised framework for image st
   <div class='paper-box-image'>
     <div>
       <div class="badge">IST 2026</div>
-      <img src='images/ist2026.png' alt="TrustDA" width="90%">
+      <img src='images/ist2026.png' alt="TrustDA" width="88%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
