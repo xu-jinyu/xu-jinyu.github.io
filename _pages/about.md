@@ -52,7 +52,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026</span> \\
 [**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
-This work defines Plant Agnostic Counting, a task focusing on zero-shot generalization across various species. We provide two datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
+This work introduces Plant Agnostic Counting, a task for zero-shot plant counting across species. We build PAC-105 and PAC-Somalia and propose TasselNetV4, a foundation model for robust cross-scene, cross-scale, and cross-species generalization.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
 Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Computers & Graphics 2026</span> \\
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) | [**Code**](https://github.com/Jialing25y/BRecStitch) \\
-BRecStitch introduces the first end-to-end unsupervised framework for image stitching and rectification, balancing alignment and regularity via bidirectional warping and a differentiable boundary loss.
+This work presents BRecStitch, an end-to-end unsupervised framework for image stitching with boundary rectification. It combines bidirectional warping with a differentiable boundary loss to improve alignment while preserving regular and visually plausible stitched results.
 </div>
 </div>
 
@@ -86,8 +86,7 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026</span> \\
 [**Paper**](https://doi.org/10.1016/j.infsof.2026.108249) \\
-This work proposes TrustDA, a dataset refinement framework that improves LLM trustworthiness evaluation by reducing evaluation costs and mitigating inflated benchmark scores.
-</div>
+This work presents TrustDA, a dataset refinement framework for more reliable LLM trustworthiness evaluation. It reduces evaluation cost and mitigates inflated benchmark scores through data distillation and semantics-preserving augmentation.</div>
 </div>
 
 # 🏆 Honors and Awards
