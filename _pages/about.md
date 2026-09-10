@@ -23,7 +23,7 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026 Oral</div>
-      <img src='images/cvpr2026.png' alt="CVPR2026" width="95%">
+      <img src='images/cvpr2026.png' alt="CVPR2026" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -40,7 +40,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
   <div class='paper-box-image'>
     <div>
       <div class="badge">ISPRS 2026</div>
-      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="95%">
+      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -57,7 +57,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
   <div class='paper-box-image'>
     <div>
       <div class="badge">CAG 2026</div>
-      <img src='images/cag2026.png' alt="BRecStitch" width="95%">
+      <img src='images/cag2026.png' alt="BRecStitch" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -74,7 +74,7 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
   <div class='paper-box-image'>
     <div>
       <div class="badge">IST 2026</div>
-      <img src='images/ist2026.png' alt="TrustDA" width="95%">
+      <img src='images/ist2026.png' alt="TrustDA" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -99,10 +99,10 @@ This work proposes TrustDA, a dataset refinement framework that improves LLM tru
 - *2026.5*, **Poster Presenter**, China Society of Image and Graphics (CSIG) Conference. 
 
 # 💻 Internships
-<!-- - **Research Intern**, The Graphics and Geometric Computing Lab, Tsinghua University.  
-  - Worked on video-based semantic scene modeling with procedural 3D representations. -->
+- **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University.  
+  - Worked on procedural 3D scene modeling for embodied simulation environments.
 - **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University.  
-  - Worked on the compliance assessment of multi-party large language models (LLMs).
+  - Worked on the compliance assessment of multi-party large language models.
 
 # 📖 Educations
 - *2023.9 - 2027.6 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
