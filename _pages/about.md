@@ -23,32 +23,36 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
 # 📝 Publications
 
 <style>
-.paper-box-text a.paper-title {
+.paper-box-text p:first-child a {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
 }
 
-.paper-box-text a.paper-title:hover {
+.paper-box-text p:first-child a:hover {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
 }
 </style>
 
-
 <div class='paper-box'>
 
   <div class='paper-box-image'>
+
     <div>
+
       <div class="badge">CVPR 2026 Oral</div>
+
       <img src='images/cvpr2026.png' alt="CVPR2026" width="90%">
+
     </div>
+
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-<a class="paper-title" href="https://arxiv.org/abs/2603.21229"><strong>Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species</strong></a> \\
+[**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
 
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
 
@@ -58,23 +62,27 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
 
 This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 
-  </div>
-
 </div>
 
+</div>
 
 <div class='paper-box'>
 
   <div class='paper-box-image'>
+
     <div>
+
       <div class="badge">ISPRS 2026</div>
+
       <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="90%">
+
     </div>
+
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-<a class="paper-title" href="https://arxiv.org/abs/2509.20857"><strong>TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting</strong></a> \\
+[**TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting**](https://arxiv.org/abs/2509.20857) \\
 
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
 
@@ -84,23 +92,27 @@ Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui
 
 This work defines Plant Agnostic Counting, a task focusing on zero-shot generalization across various species. We provide two datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
 
-  </div>
-
 </div>
 
+</div>
 
 <div class='paper-box'>
 
   <div class='paper-box-image'>
+
     <div>
+
       <div class="badge">CAG 2026</div>
+
       <img src='images/cag2026.png' alt="BRecStitch" width="90%">
+
     </div>
+
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-<a class="paper-title" href="https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865"><strong>Revisiting unsupervised image stitching via efficient boundary rectification</strong></a> \\
+[**Revisiting unsupervised image stitching via efficient boundary rectification**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) \\
 
 Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
 
@@ -110,23 +122,27 @@ Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue
 
 BRecStitch introduces the first end-to-end unsupervised framework for image stitching and rectification, balancing alignment and regularity via bidirectional warping and a differentiable boundary loss.
 
-  </div>
-
 </div>
 
+</div>
 
 <div class='paper-box'>
 
   <div class='paper-box-image'>
+
     <div>
+
       <div class="badge">IST 2026</div>
+
       <img src='images/ist2026.png' alt="TrustDA" width="90%">
+
     </div>
+
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-<a class="paper-title" href="https://doi.org/10.1016/j.infsof.2026.108249"><strong>Enhancing trustworthiness evaluation of Large Language Models through dataset refinement</strong></a> \\
+[**Enhancing trustworthiness evaluation of Large Language Models through dataset refinement**](https://doi.org/10.1016/j.infsof.2026.108249) \\
 
 Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
 
@@ -136,7 +152,7 @@ Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxi
 
 This work proposes TrustDA, a dataset refinement framework that improves LLM trustworthiness evaluation by reducing evaluation costs and mitigating inflated benchmark scores.
 
-  </div>
+</div>
 
 </div>
 
