@@ -19,320 +19,127 @@ Following this line of thought, my current research focuses on using AI for crea
 
 Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
 
-# 📝 Publications
+**# 📝 Publications** 
 
-<style>
-/* ===== Publications ===== */
+\<div class='paper-box'>
 
-.pub-list {
-  width: 100%;
-  margin-top: 18px;
-}
+  \<div class='paper-box-image'>
 
-.pub-item {
-  display: grid;
-  grid-template-columns: 32% 1fr;
-  column-gap: 28px;
-  align-items: center;
+    \<div>
 
-  padding: 24px 0;
-  border-bottom: 1px solid #e8e8e8;
-}
+      \<div class="badge">CVPR 2026 Oral\</div>
 
-.pub-item:last-child {
-  border-bottom: none;
-}
+      \<img src='images/cvpr2026.png' alt="CVPR2026" width="90%">
 
-/* 左侧图片区域：统一的是画框，不是图片比例 */
-.pub-thumb {
-  position: relative;
+    \</div>
 
-  width: 100%;
-  height: 165px;
+  \</div>
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  \<div class='paper-box-text' markdown="1">
 
-  overflow: hidden;
-  background: #fff;
-}
+[**\*\*Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species\*\***]\([https://arxiv.org/abs/2603.21229](https://arxiv.org/abs/2603.21229)) \\\\
 
-/* 图片保持原始比例 */
-.pub-thumb img {
-  display: block;
+**\*\*Jinyu Xu\*\***, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\\\
 
-  max-width: 100%;
-  max-height: 155px;
-
-  width: auto;
-  height: auto;
-
-  object-fit: contain;
-
-  border-radius: 2px;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.16);
-}
-
-/* 左上角会议标签 */
-.pub-badge {
-  position: absolute;
-  top: 5px;
-  left: 0;
-
-  z-index: 2;
-
-  padding: 3px 12px;
+\<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral \<span style="color: #c0392b;">(Best Paper Award Candidate)\</span>\</span> \\\\
 
-  background: #224a91;
-  color: #fff;
+[\*\*Paper\*\*]\([https://arxiv.org/abs/2603.21229](https://arxiv.org/abs/2603.21229)) | [\*\*Code\*\*]\([https://github.com/tiny-smart/TPC-268](https://github.com/tiny-smart/TPC-268)) | [\*\*Dataset\*\*]\([https://huggingface.co/datasets/jinyu-xu/TPC-268](https://huggingface.co/datasets/jinyu-xu/TPC-268)) | [\*\*Project Page\*\*]\([https://tiny-smart.github.io/tpc268-project-page](https://tiny-smart.github.io/tpc268-project-page)) | [\*\*Social Media\*\*]\([https://mp.weixin.qq.com/s/ivYhZqBY\_\_eXKRvwMb-zcQ](https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ)) \\\\
 
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1.3;
-}
+This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
 
-/* 右侧文字 */
-.pub-info {
-  min-width: 0;
-}
+\</div>
 
-.pub-title {
-  margin-bottom: 8px;
+\</div>
 
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 1.38;
-}
+\<div class='paper-box'>
 
-.pub-title a {
-  color: #214f91;
-  text-decoration: none;
-}
+  \<div class='paper-box-image'>
 
-.pub-title a:hover {
-  text-decoration: underline;
-}
+    \<div>
 
-.pub-authors {
-  margin-bottom: 9px;
-
-  color: #555;
-  font-size: 14px;
-  line-height: 1.5;
-}
-
-.pub-authors strong {
-  color: #333;
-}
+      \<div class="badge">ISPRS 2026\</div>
 
-/* Venue 标签 */
-.pub-venue {
-  display: inline-block;
+      \<img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="90%">
 
-  margin-bottom: 11px;
-  padding: 3px 8px;
-
-  background: #fff7c7;
-  border-radius: 6px;
+    \</div>
 
-  color: #333;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 1.4;
-}
+  \</div>
 
-.pub-highlight {
-  color: #c0392b;
-}
-
-/* Paper / Code 等 */
-.pub-links {
-  font-size: 14px;
-  font-weight: 600;
-}
+  \<div class='paper-box-text' markdown="1">
 
-.pub-links a {
-  margin-right: 22px;
-
-  color: #214f91;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-
-/* 手机端 */
-@media (max-width: 768px) {
-  .pub-item {
-    grid-template-columns: 1fr;
-    row-gap: 16px;
-    padding: 22px 0;
-  }
+[**\*\*TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting\*\***]\([https://arxiv.org/abs/2509.20857](https://arxiv.org/abs/2509.20857)) \\\\
 
-  .pub-thumb {
-    height: 180px;
-  }
+Xiaonan Hua, Xuebing Li, **\*\*Jinyu Xu\*\***, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\\\
 
-  .pub-thumb img {
-    max-height: 170px;
-  }
+\<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026\</span> \\\\
 
-  .pub-links a {
-    margin-right: 14px;
-  }
-}
-</style>
+[\*\*Paper\*\*]\([https://arxiv.org/abs/2509.20857](https://arxiv.org/abs/2509.20857)) | [\*\*Code\*\*]\([https://github.com/tiny-smart/TasselNetV4/](https://github.com/tiny-smart/TasselNetV4/)) | [\*\*Model\*\*]\([https://huggingface.co/akaxiao/TasselNetV4](https://huggingface.co/akaxiao/TasselNetV4)) | [\*\*Social Media\*\*]\([https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4\_dvdjHQ](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ)) \\\\
 
+This work defines Plant Agnostic Counting, a task focusing on zero-shot generalization across various species. We provide two datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
 
-<div class="pub-list">
+\</div>
 
+\</div>
 
-  <!-- CVPR 2026 -->
-  <div class="pub-item">
+\<div class='paper-box'>
 
-    <div class="pub-thumb">
-      <div class="pub-badge">CVPR 2026 Oral</div>
-      <img src="images/cvpr2026.png" alt="CVPR 2026">
-    </div>
+  \<div class='paper-box-image'>
 
-    <div class="pub-info">
+    \<div>
 
-      <div class="pub-title">
-        <a href="https://arxiv.org/abs/2603.21229">
-          Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
-        </a>
-      </div>
+      \<div class="badge">CAG 2026\</div>
 
-      <div class="pub-authors">
-        <strong>Jinyu Xu</strong>, Tianqi Hu, Xiaonan Hu, Letian Zhou,
-        Songliang Cao, Meng Zhang, Hao Lu
-      </div>
+      \<img src='images/cag2026.png' alt="BRecStitch" width="90%">
 
-      <div class="pub-venue">
-        CVPR 2026 Oral
-        <span class="pub-highlight">(Best Paper Award Candidate)</span>
-      </div>
+    \</div>
 
-      <div class="pub-links">
-        <a href="https://arxiv.org/abs/2603.21229">Paper</a>
-        <a href="https://github.com/tiny-smart/TPC-268">Code</a>
-        <a href="https://huggingface.co/datasets/jinyu-xu/TPC-268">Dataset</a>
-        <a href="https://tiny-smart.github.io/tpc268-project-page">Project Page</a>
-        <a href="https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ">Social Media</a>
-      </div>
+  \</div>
 
-    </div>
+  \<div class='paper-box-text' markdown="1">
 
-  </div>
+[**\*\*Revisiting unsupervised image stitching via efficient boundary rectification\*\***]\([https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865)) \\\\
 
+Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **\*\*Jinyu Xu\*\***, Fang-Lue Zhang, Xinyuan Zheng \\\\
 
-  <!-- ISPRS 2026 -->
-  <div class="pub-item">
+\<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Computers & Graphics 2026\</span> \\\\
 
-    <div class="pub-thumb">
-      <div class="pub-badge">ISPRS 2026</div>
-      <img src="images/tasselnetv4-2.png" alt="TasselNetV4">
-    </div>
+[\*\*Paper\*\*]\([https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865)) | [\*\*Code\*\*]\([https://github.com/Jialing25y/BRecStitch](https://github.com/Jialing25y/BRecStitch)) \\\\
 
-    <div class="pub-info">
+BRecStitch introduces the first end-to-end unsupervised framework for image stitching and rectification, balancing alignment and regularity via bidirectional warping and a differentiable boundary loss.
 
-      <div class="pub-title">
-        <a href="https://arxiv.org/abs/2509.20857">
-          TasselNetV4: A Vision Foundation Model for Cross-Scene, Cross-Scale, and Cross-Species Plant Counting
-        </a>
-      </div>
+\</div>
 
-      <div class="pub-authors">
-        Xiaonan Hua, Xuebing Li, <strong>Jinyu Xu</strong>,
-        Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li,
-        Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu
-      </div>
+\</div>
 
-      <div class="pub-venue">
-        ISPRS Journal of Photogrammetry and Remote Sensing 2026
-      </div>
+\<div class='paper-box'>
 
-      <div class="pub-links">
-        <a href="https://arxiv.org/abs/2509.20857">Paper</a>
-        <a href="https://github.com/tiny-smart/TasselNetV4/">Code</a>
-        <a href="https://huggingface.co/akaxiao/TasselNetV4">Model</a>
-        <a href="https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ">Social Media</a>
-      </div>
+  \<div class='paper-box-image'>
 
-    </div>
+    \<div>
 
-  </div>
+      \<div class="badge">IST 2026\</div>
 
+      \<img src='images/ist2026.png' alt="TrustDA" width="90%">
 
-  <!-- CAG 2026 -->
-  <div class="pub-item">
+    \</div>
 
-    <div class="pub-thumb">
-      <div class="pub-badge">CAG 2026</div>
-      <img src="images/cag2026.png" alt="BRecStitch">
-    </div>
+  \</div>
 
-    <div class="pub-info">
+  \<div class='paper-box-text' markdown="1">
 
-      <div class="pub-title">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865">
-          Revisiting Unsupervised Image Stitching via Efficient Boundary Rectification
-        </a>
-      </div>
+[**\*\*Enhancing trustworthiness evaluation of Large Language Models through dataset refinement\*\***]\([https://doi.org/10.1016/j.infsof.2026.108249](https://doi.org/10.1016/j.infsof.2026.108249)) \\\\
 
-      <div class="pub-authors">
-        Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie,
-        <strong>Jinyu Xu</strong>, Fang-Lue Zhang, Xinyuan Zheng
-      </div>
+Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **\*\*Jinyu Xu\*\***, Chang Zhang, Lanxin Yang, Liming Dong \\\\
 
-      <div class="pub-venue">
-        Computers &amp; Graphics 2026
-      </div>
+\<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026\</span> \\\\
 
-      <div class="pub-links">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865">Paper</a>
-        <a href="https://github.com/Jialing25y/BRecStitch">Code</a>
-      </div>
+[\*\*Paper\*\*]\([https://doi.org/10.1016/j.infsof.2026.108249](https://doi.org/10.1016/j.infsof.2026.108249)) \\\\
 
-    </div>
+This work proposes TrustDA, a dataset refinement framework that improves LLM trustworthiness evaluation by reducing evaluation costs and mitigating inflated benchmark scores.
 
-  </div>
+\</div>
 
-
-  <!-- IST 2026 -->
-  <div class="pub-item">
-
-    <div class="pub-thumb">
-      <div class="pub-badge">IST 2026</div>
-      <img src="images/ist2026.png" alt="TrustDA">
-    </div>
-
-    <div class="pub-info">
-
-      <div class="pub-title">
-        <a href="https://doi.org/10.1016/j.infsof.2026.108249">
-          Enhancing Trustworthiness Evaluation of Large Language Models through Dataset Refinement
-        </a>
-      </div>
-
-      <div class="pub-authors">
-        Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu,
-        <strong>Jinyu Xu</strong>, Chang Zhang, Lanxin Yang, Liming Dong
-      </div>
-
-      <div class="pub-venue">
-        Information and Software Technology 2026
-      </div>
-
-      <div class="pub-links">
-        <a href="https://doi.org/10.1016/j.infsof.2026.108249">Paper</a>
-      </div>
-
-    </div>
-
-  </div>
-
-
-</div>
+\</div>
 
 # 🏆 Honors and Awards
 - *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
