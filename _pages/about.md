@@ -19,20 +19,22 @@ Following this line of thought, my current research focuses on using AI for crea
 
 Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
 
-
 # 📝 Publications
 
 <style>
-.paper-box-text p:first-child a {
+.paper-box-text > p:first-child > a:first-child {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  background-image: none !important;
 }
 
-.paper-box-text p:first-child a:hover {
+.paper-box-text > p:first-child > a:first-child:hover,
+.paper-box-text > p:first-child > a:first-child:focus {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  background-image: none !important;
 }
 </style>
 
@@ -66,6 +68,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 
 </div>
 
+
 <div class='paper-box'>
 
   <div class='paper-box-image'>
@@ -96,6 +99,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
 
 </div>
 
+
 <div class='paper-box'>
 
   <div class='paper-box-image'>
@@ -125,6 +129,7 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 </div>
 
 </div>
+
 
 <div class='paper-box'>
 
