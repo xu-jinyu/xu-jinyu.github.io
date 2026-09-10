@@ -22,6 +22,21 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
 
 # 📝 Publications
 
+<style>
+.paper-box-text a.paper-title {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.paper-box-text a.paper-title:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+</style>
+
+
 <div class='paper-box'>
 
   <div class='paper-box-image'>
@@ -33,7 +48,7 @@ Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.
 
   <div class='paper-box-text' markdown="1">
 
-[**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
+<a class="paper-title" href="https://arxiv.org/abs/2603.21229"><strong>Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species</strong></a> \\
 
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
 
@@ -59,7 +74,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 
   <div class='paper-box-text' markdown="1">
 
-[**TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting**](https://arxiv.org/abs/2509.20857) \\
+<a class="paper-title" href="https://arxiv.org/abs/2509.20857"><strong>TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting</strong></a> \\
 
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
 
@@ -85,7 +100,7 @@ This work defines Plant Agnostic Counting, a task focusing on zero-shot generali
 
   <div class='paper-box-text' markdown="1">
 
-[**Revisiting unsupervised image stitching via efficient boundary rectification**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) \\
+<a class="paper-title" href="https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865"><strong>Revisiting unsupervised image stitching via efficient boundary rectification</strong></a> \\
 
 Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
 
@@ -111,7 +126,7 @@ BRecStitch introduces the first end-to-end unsupervised framework for image stit
 
   <div class='paper-box-text' markdown="1">
 
-[**Enhancing trustworthiness evaluation of Large Language Models through dataset refinement**](https://doi.org/10.1016/j.infsof.2026.108249) \\
+<a class="paper-title" href="https://doi.org/10.1016/j.infsof.2026.108249"><strong>Enhancing trustworthiness evaluation of Large Language Models through dataset refinement</strong></a> \\
 
 Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
 
