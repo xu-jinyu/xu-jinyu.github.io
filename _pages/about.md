@@ -98,8 +98,8 @@ This work presents TrustDA, a dataset refinement framework for reliable LLM trus
 - *2024.10*, **Merit Student**, Huazhong University of Science and Technology.
 
 # 💬 Academic Activities
-- *2026.5*, **Poster Presentation,**, Vision And Learning SEminar (VALSE). 
-- *2026.5*, **Poster Presentation,**, China Society of Image and Graphics (CSIG) Conference. 
+- *2026.5*, **Poster Presentation**, Vision And Learning SEminar (VALSE). 
+- *2026.5*, **Poster Presentation**, China Society of Image and Graphics (CSIG) Conference. 
 
 # 💻 Internships
 - **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University.  
