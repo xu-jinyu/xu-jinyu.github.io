@@ -20,6 +20,131 @@ Following this line of thought, my current research focuses on using AI for crea
 Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
 
 
+# 📝 Publications
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+
+    <div>
+
+      <div class="badge">CVPR 2026 Oral</div>
+
+      <img src='images/cvpr2026.png' alt="CVPR2026" width="90%">
+
+    </div>
+
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**](https://arxiv.org/abs/2603.21229) \\
+
+**Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
+
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral <span style="color: #c0392b;">(Best Paper Award Candidate)</span></span> \\
+
+[**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) | [**Project Page**](https://tiny-smart.github.io/tpc268-project-page) | [**Social Media**](https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ) \\
+
+This work introduces a large-scale, fine-grained plant counting dataset spanning hundreds of species. By integrating botanical taxonomy, we aim to bridge the gap between plant science and computer vision to enhance cross-species generalization.
+
+</div>
+
+</div>
+
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+
+    <div>
+
+      <div class="badge">ISPRS 2026</div>
+
+      <img src='images/tasselnetv4-2.png' alt="TasselNetV4" width="90%">
+
+    </div>
+
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[**TasselNetV4: A vision foundation model for cross-scene, cross-scale, and cross-species plant counting**](https://arxiv.org/abs/2509.20857) \\
+
+Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
+
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026</span> \\
+
+[**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
+
+This work defines Plant Agnostic Counting, a task focusing on zero-shot generalization across various species. We provide two datasets, PAC-105 and PAC-Somalia, and propose TasselNetV4 as a robust model for precision plant counting.
+
+</div>
+
+</div>
+
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+
+    <div>
+
+      <div class="badge">CAG 2026</div>
+
+      <img src='images/cag2026.png' alt="BRecStitch" width="90%">
+
+    </div>
+
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[**Revisiting unsupervised image stitching via efficient boundary rectification**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) \\
+
+Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
+
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Computers & Graphics 2026</span> \\
+
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) | [**Code**](https://github.com/Jialing25y/BRecStitch) \\
+
+BRecStitch introduces the first end-to-end unsupervised framework for image stitching and rectification, balancing alignment and regularity via bidirectional warping and a differentiable boundary loss.
+
+</div>
+
+</div>
+
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+
+    <div>
+
+      <div class="badge">IST 2026</div>
+
+      <img src='images/ist2026.png' alt="TrustDA" width="90%">
+
+    </div>
+
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[**Enhancing trustworthiness evaluation of Large Language Models through dataset refinement**](https://doi.org/10.1016/j.infsof.2026.108249) \\
+
+Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
+
+<span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026</span> \\
+
+[**Paper**](https://doi.org/10.1016/j.infsof.2026.108249) \\
+
+This work proposes TrustDA, a dataset refinement framework that improves LLM trustworthiness evaluation by reducing evaluation costs and mitigating inflated benchmark scores.
+
+</div>
+
+</div>
+
 # 🏆 Honors and Awards
 - *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
 - *2025.10*, **Merit Student**, Huazhong University of Science and Technology.
