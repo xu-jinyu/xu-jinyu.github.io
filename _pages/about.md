@@ -95,8 +95,8 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 
 # 🏆 Honors and Awards
 
-- **National Scholarship** *(2024&2025)*, Highest honor for undergraduates in China,  *2024 & 2025*
-- **Merit Student** *(2024-2026)*, Huazhong University of Science and Technology  *2024–2026*
+- **National Scholarship** *(2024 & 2025)*, Highest honor for undergraduates in China
+- **Merit Student** *(2024 – 2026)*, Huazhong University of Science and Technology 
 - **Excellent Undergraduate Student** *(2025)*, Huazhong University of Science and Technology
 
 # 💻 Internships
@@ -108,7 +108,7 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 
 # 📖 Education
 
-- *2023–2027 (expected)*, **B.Eng. in Information Security**, Huazhong University of Science and Technology  
+- *2023 – 2027 (expected)*, B.Eng. in Information Security, Huazhong University of Science and Technology  
 
 
 
