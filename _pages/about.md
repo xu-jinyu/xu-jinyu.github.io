@@ -92,36 +92,94 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 </div>
 
 
+
 <style>
-  .entry-date {
-    display: inline-block;
-    width: 125px;
-    font-style: italic;
-    vertical-align: top;
+.cv-group {
+  display: inline-grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 18px;
+  row-gap: 14px;
+  align-items: baseline;
+  max-width: 100%;
+}
+
+.cv-main {
+  min-width: 0;
+}
+
+.cv-date {
+  font-style: italic;
+  font-weight: normal;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.cv-description {
+  margin-top: 6px;
+}
+
+/* Narrow screens */
+@media (max-width: 1100px) {
+  .cv-group {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 5px;
   }
 
-  .intern-date {
-    width: 200px;
+  .cv-date {
+    text-align: left;
+    margin-bottom: 12px;
   }
+}
 </style>
 
 # 🏆 Honors and Awards
 
-- <span class="entry-date">2024 &amp; 2025</span> **National Scholarship** (Highest honor for undergraduates in China).
-- <span class="entry-date">2024–2026</span> **Merit Student**, Huazhong University of Science and Technology.
-- <span class="entry-date">2025</span> **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
+<div class="cv-group">
+  <div class="cv-main">
+    <strong>National Scholarship</strong> (Highest honor for undergraduates in China).
+  </div>
+  <span class="cv-date">2024, 2025</span>
+
+  <div class="cv-main">
+    <strong>Merit Student</strong>, Huazhong University of Science and Technology.
+  </div>
+  <span class="cv-date">2024–2026</span>
+
+  <div class="cv-main">
+    <strong>Excellent Undergraduate Student</strong>, Huazhong University of Science and Technology.
+  </div>
+  <span class="cv-date">2025</span>
+</div>
 
 # 💻 Internships
 
-- <span class="entry-date intern-date">Jul 2026 – Present</span> **Research Intern**, Graphics &amp; Geometric Computing Group, Tsinghua University.
-  - Working on procedural 3D scene modeling for embodied simulation environments.
-- <span class="entry-date intern-date">Jul 2025 – Nov 2025</span> **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University.
-  - Worked on the compliance assessment of multi-party large language models.
+<div class="cv-group">
+  <div class="cv-main">
+    <strong>Research Intern</strong>, Graphics &amp; Geometric Computing Group, Tsinghua University.
+    <div class="cv-description">
+      Working on procedural 3D scene modeling for embodied simulation environments.
+    </div>
+  </div>
+  <span class="cv-date">Jul 2026 – Present</span>
+
+  <div class="cv-main">
+    <strong>Research Intern</strong>, State Key Laboratory for Novel Software Technology, Nanjing University.
+    <div class="cv-description">
+      Worked on the compliance assessment of multi-party large language models.
+    </div>
+  </div>
+  <span class="cv-date">Jul 2025 – Nov 2025</span>
+</div>
 
 # 📖 Education
 
-- <span class="entry-date">2023–2027 (expected)</span> **B.Eng. in Information Security**, Huazhong University of Science and Technology.
-
+<div class="cv-group">
+  <div class="cv-main">
+    <strong>B.Eng. in Information Security</strong>, Huazhong University of Science and Technology.
+  </div>
+  <span class="cv-date">2023–2027 (expected)</span>
+</div>
 
 
 # 🎨 Hobbies
