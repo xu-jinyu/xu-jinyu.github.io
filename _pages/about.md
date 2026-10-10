@@ -50,7 +50,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026</span> \\
 [**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
-This work introduces Plant Agnostic Counting for zero-shot counting across diverse species. We build PAC-105 and PAC-Somalia and propose TasselNetV4 for robust cross-scene, cross-scale, and cross-species generalization.
+This work introduces Plant Agnostic Counting for zero-shot counting across diverse plant species. We build PAC-105 and PAC-Somalia and propose TasselNetV4 for robust cross-scene, cross-scale, and cross-species counting generalization.
 </div>
 </div>
 
@@ -88,19 +88,87 @@ This work presents TrustDA, a dataset refinement framework for reliable LLM trus
 </div>
 </div>
 
+
+<style>
+  .profile-entry {
+    display: grid;
+    grid-template-columns: 175px minmax(0, 1fr);
+    column-gap: 20px;
+    margin-bottom: 12px;
+    align-items: start;
+  }
+
+  .profile-date {
+    font-style: italic;
+    color: #666;
+  }
+
+  .profile-detail {
+    min-width: 0;
+  }
+
+  .profile-detail p {
+    margin: 5px 0 0;
+  }
+
+  @media (max-width: 600px) {
+    .profile-entry {
+      grid-template-columns: 1fr;
+      row-gap: 4px;
+    }
+  }
+</style>
+
 # 🏆 Honors and Awards
-- *2024 & 2025*, **National Scholarship** (Highest honor for undergraduates in China).
-- *2024 & 2025 & 2026*, **Merit Student**, Huazhong University of Science and Technology.
-- *2025*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
+
+<div class="profile-entry">
+  <span class="profile-date">2024 &amp; 2025</span>
+  <div class="profile-detail">
+    <strong>National Scholarship</strong>, Highest honor for undergraduates in China.
+  </div>
+</div>
+
+<div class="profile-entry">
+  <span class="profile-date">2024–2026</span>
+  <div class="profile-detail">
+    <strong>Merit Student</strong>, Huazhong University of Science and Technology.
+  </div>
+</div>
+
+<div class="profile-entry">
+  <span class="profile-date">2025</span>
+  <div class="profile-detail">
+    <strong>Excellent Undergraduate Student</strong>, Huazhong University of Science and Technology.
+  </div>
+</div>
 
 # 💻 Internships
-- **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University.  
-  - Worked on procedural 3D scene modeling for embodied simulation environments.
-- **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University.  
-  - Worked on the compliance assessment of multi-party large language models.
 
-# 📖 Educations
-- *2023 - 2027 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
+<div class="profile-entry">
+  <span class="profile-date"></span>
+  <div class="profile-detail">
+    <strong>Research Intern</strong>, Graphics &amp; Geometric Computing Group, Tsinghua University.
+    <p>Worked on procedural 3D scene modeling for embodied simulation environments.</p>
+  </div>
+</div>
+
+<div class="profile-entry">
+  <span class="profile-date"></span>
+  <div class="profile-detail">
+    <strong>Research Intern</strong>, State Key Laboratory for Novel Software Technology, Nanjing University.
+    <p>Worked on the compliance assessment of multi-party large language models.</p>
+  </div>
+</div>
+
+# 📖 Education
+
+<div class="profile-entry">
+  <span class="profile-date">2023–2027</span>
+  <div class="profile-detail">
+    <strong>B.Eng. in Information Security</strong>, Huazhong University of Science and Technology (expected).
+  </div>
+</div>
+
 
 # 🎨 Hobbies
 Beyond my research, I enjoy exploring different forms of art:
