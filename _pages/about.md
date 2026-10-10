@@ -19,7 +19,7 @@ My current research focuses on 3D scene understanding and generation for embodie
 
 
 
-For discussion or collaboration, feel free to email me at <span style="font-family: 'Segoe UI', Arial, sans-serif; background: #F0F3FF; color: #3659A2; padding: 2px 5px; border-radius: 4px; white-space: nowrap;">jinyu_xu@hust.edu.cn</span> / <span style="font-family: 'Segoe UI', Arial, sans-serif; background: #F0F3FF; color: #3659A2; padding: 2px 5px; border-radius: 4px; white-space: nowrap;">jinyu.xu1024@gmail.com</span>.
+For discussion or collaboration, feel free to email me at <span style="font-family: 'Segoe UI', Arial, sans-serif; background: #F0F3FF; color: #3659A2; padding: 2px 5px; border-radius: 4px; white-space: nowrap;">*jinyu_xu@hust.edu.cn*</span> / <span style="font-family: 'Segoe UI', Arial, sans-serif; background: #F0F3FF; color: #3659A2; padding: 2px 5px; border-radius: 4px; white-space: nowrap;">*jinyu.xu1024@gmail.com*</span>.
 
 # 📝 Publications 
 
@@ -36,7 +36,7 @@ For discussion or collaboration, feel free to email me at <span style="font-fami
 **Jinyu Xu**, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">CVPR 2026 Oral <span style="color: #c0392b;">(Best Paper Award Candidate)</span></span> \\
 [**Paper**](https://arxiv.org/abs/2603.21229) | [**Code**](https://github.com/tiny-smart/TPC-268) | [**Dataset**](https://huggingface.co/datasets/jinyu-xu/TPC-268) | [**Project Page**](https://tiny-smart.github.io/tpc268-project-page) | [**Social Media**](https://mp.weixin.qq.com/s/ivYhZqBY__eXKRvwMb-zcQ) \\
-TPC-268 is a large-scale, fine-grained plant counting dataset spanning hundreds of species and diverse observation scales. By integrating botanical taxonomy into visual counting, it bridges the gap between plant science and computer vision, providing a foundation for robust generalization to unseen plant species.
+TPC-268 is a large-scale, fine-grained plant counting dataset spanning hundreds of species and diverse observation scales. By integrating hierarchical botanical taxonomy into class-agnostic visual counting, it bridges the gap between plant science and computer vision, providing a foundation for robust generalization to unseen plant species.
 </div>
 </div>
 
@@ -93,22 +93,24 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 
 
 
+
 # 🏆 Honors and Awards
 
-- **National Scholarship**, Highest honor for undergraduates in China <span class="meta-date">2024, 2025</span>
-- **Merit Student**, Huazhong University of Science and Technology <span class="meta-date">2024–2026</span>
-- **Excellent Undergraduate Student**, Huazhong University of Science and Technology <span class="meta-date">2025</span>
+- **National Scholarship**, Highest honor for undergraduates in China <span style="color: #777777; font-style: italic;">2024, 2025</span>
+- **Merit Student**, Huazhong University of Science and Technology <span style="color: #777777; font-style: italic;">2024–2026</span>
+- **Excellent Undergraduate Student**, Huazhong University of Science and Technology <span style="color: #777777; font-style: italic;">2025</span>
 
 # 💻 Internships
 
-- **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University <span class="meta-date">Jul 2026 – Present</span>
+- **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University <span style="color: #777777; font-style: italic;">Jul 2026 – Present</span>
   - Working on procedural 3D scene modeling for embodied simulation environments.
-- **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University <span class="meta-date">Jul 2025 – Nov 2025</span>
+- **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University <span style="color: #777777; font-style: italic;">Jul 2025 – Nov 2025</span>
   - Worked on the compliance assessment of multi-party large language models.
 
 # 📖 Education
 
-- **B.Eng. in Information Security**, Huazhong University of Science and Technology <span class="meta-date">2023–2027 (expected)</span>
+- **B.Eng. in Information Security**, Huazhong University of Science and Technology <span style="color: #777777; font-style: italic;">2023–2027 (expected)</span>
+
 
 
 
