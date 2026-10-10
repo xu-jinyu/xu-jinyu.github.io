@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>`
 
-Hi! I am **Jinyu Xu (徐进宇)**, an undergraduate student at the School of Cyber Science and Engineering, Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn/). My research interests include **Computer Graphics** and **Computer Vision**.
+Hi! I am **Jinyu Xu (徐进宇)**, currently an undergraduate student at Huazhong University of Science and Technology. I will begin my graduate studies at **Tsinghua University** in Fall 2027. My research interests include **Computer Vision** and **Computer Graphics**.
 
-I am interested in what limited visual observations can tell us about the world, from the appearance captured in images to the structure behind it. Beyond understanding the world, I am interested in how intelligence can turn perception into action, interacting with and reshaping the world.
+I am interested in what limited visual observations can tell us about the world, from what we see to its underlying structure. Beyond understanding the world, I want to explore how intelligence can turn perception into action, allowing us to interact with and reshape it.
 
-Following this line of thought, my current research focuses on using AI for creative design and on building interactive environments for embodied agents. Previously, advised by [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), I worked on visual dense prediction, studying fine-grained visual understanding from images.
+My current research focuses on 3D scene understanding and generation for embodied AI. Previously, I worked on visual dense prediction under the supervision of [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), studying fine-grained visual understanding from images.
 
-
-Please feel free to reach out via **[jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn)** for discussion or collaboration.
-
+For discussion or collaboration, feel free to email me at [jinyu.xu1024@gmail.com](mailto:jinyu.xu1024@gmail.com) or [jinyu_xu@hust.edu.cn](mailto:jinyu_xu@hust.edu.cn).
 
 # 📝 Publications 
 
@@ -52,7 +50,7 @@ This work introduces a large-scale, fine-grained plant counting dataset spanning
 Xiaonan Hua, Xuebing Li, **Jinyu Xu**, Abdulkadir Duran Adan, Letian Zhou, Xuhui Zhu, Yanan Li, Wei Guo, Shouyang Liu, Wenzhong Liu, Hao Lu \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">ISPRS Journal of Photogrammetry and Remote Sensing 2026</span> \\
 [**Paper**](https://arxiv.org/abs/2509.20857) | [**Code**](https://github.com/tiny-smart/TasselNetV4/) | [**Model**](https://huggingface.co/akaxiao/TasselNetV4) | [**Social Media**](https://mp.weixin.qq.com/s/9Q4j4Tj4BI1Q5I4_dvdjHQ) \\
-This work introduces Plant Agnostic Counting for zero-shot counting across species. We build PAC-105 and PAC-Somalia and propose TasselNetV4 for robust cross-scene, cross-scale, and cross-species generalization.
+This work introduces Plant Agnostic Counting for zero-shot counting across diverse species. We build PAC-105 and PAC-Somalia and propose TasselNetV4 for robust cross-scene, cross-scale, and cross-species generalization.
 </div>
 </div>
 
@@ -69,7 +67,7 @@ This work introduces Plant Agnostic Counting for zero-shot counting across speci
 Yun Zhang, Jialing Yang, Ruiyang Liang, Yao Xu, Lang Nie, **Jinyu Xu**, Fang-Lue Zhang, Xinyuan Zheng \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Computers & Graphics 2026</span> \\
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000865) | [**Code**](https://github.com/Jialing25y/BRecStitch) \\
-This work presents BRecStitch, an end-to-end unsupervised framework for image stitching with boundary rectification. It combines bidirectional warping and a differentiable boundary loss to improve alignment and regularity.
+This work presents BRecStitch, an end-to-end unsupervised image stitching framework that improves geometric alignment and boundary regularity through bidirectional warping and differentiable boundary loss.
 </div>
 </div>
 
@@ -86,20 +84,14 @@ This work presents BRecStitch, an end-to-end unsupervised framework for image st
 Jinwei Xu, Xin Zhou, Yanjing Yang, Tianhao Liu, **Jinyu Xu**, Chang Zhang, Lanxin Yang, Liming Dong \\
 <span style="background-color: #fff9c4; color: #333; padding: 2px 8px; border-radius: 6px; font-weight: bold;">Information and Software Technology 2026</span> \\
 [**Paper**](https://doi.org/10.1016/j.infsof.2026.108249) \\
-This work presents TrustDA, a dataset refinement framework for reliable LLM trustworthiness evaluation. It reduces evaluation cost and mitigates inflated benchmark scores through data distillation and augmentation.
+This work presents TrustDA, a dataset refinement framework for reliable LLM trustworthiness evaluation that reduces evaluation costs and inflated benchmark scores through data distillation and augmentation.
 </div>
 </div>
 
 # 🏆 Honors and Awards
-- *2025.10*, **National Scholarship** (Highest honor for undergraduates in China).
-- *2025.10*, **Merit Student**, Huazhong University of Science and Technology.
-- *2025.05*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
-- *2024.10*, **National Scholarship** (Highest honor for undergraduates in China).
-- *2024.10*, **Merit Student**, Huazhong University of Science and Technology.
-
-# 💬 Academic Activities
-- *2026.5*, **Poster Presentation**, Vision And Learning SEminar (VALSE). 
-- *2026.5*, **Poster Presentation**, China Society of Image and Graphics (CSIG) Conference. 
+- *2024 & 2025*, **National Scholarship** (Highest honor for undergraduates in China).
+- *2024 & 2025 & 2026*, **Merit Student**, Huazhong University of Science and Technology.
+- *2025*, **Excellent Undergraduate Student**, Huazhong University of Science and Technology.
 
 # 💻 Internships
 - **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University.  
@@ -108,7 +100,7 @@ This work presents TrustDA, a dataset refinement framework for reliable LLM trus
   - Worked on the compliance assessment of multi-party large language models.
 
 # 📖 Educations
-- *2023.9 - 2027.6 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
+- *2023 - 2027 (expected)*, B.Eng, Information security, Huazhong University of Science and Technology.
 
 # 🎨 Hobbies
 Beyond my research, I enjoy exploring different forms of art:
