@@ -14,7 +14,7 @@ Hi! I am **Jinyu Xu (徐进宇)**, currently an undergraduate student at Huazhon
 
 I am interested in what limited visual observations can tell us about the world, from what we see to its underlying structure. Beyond understanding the world, I want to explore how intelligence can turn perception into action, allowing us to interact with and reshape it. 
 
-My current research focuses on 3D scene understanding and generation for embodied AI. Previously, I worked on visual dense prediction under the supervision of [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), studying fine-grained visual understanding from images.
+My current research focuses on **3D scene understanding and generation** for embodied AI. Previously, I worked on visual dense prediction under the supervision of [Prof. Hao Lu](https://scholar.google.com/citations?user=Ly2qWWgAAAAJ&hl=zh-CN), studying fine-grained visual understanding from images.
 
 
 
@@ -94,7 +94,7 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 # 🏆 Honors and Awards
 
 - **National Scholarship**, Highest honor for undergraduates in China, *2024 & 2025* 
-- **Merit Student**, Huazhong University of Science and Technology, *2024–2026*
+- **Merit Student**, Huazhong University of Science and Technology, *2024 – 2026*
 - **Excellent Undergraduate Student**, Huazhong University of Science and Technology, *2025*
 
 # 💻 Internships
@@ -106,7 +106,7 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 
 # 📖 Education
 
-- **B.Eng. in Information Security**, Huazhong University of Science and Technology, *2023–2027 (expected)*
+- **B.Eng. in Information Security**, Huazhong University of Science and Technology, *2023 – 2027 (expected)*
 
 
 
