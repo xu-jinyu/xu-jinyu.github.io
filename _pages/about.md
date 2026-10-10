@@ -95,20 +95,20 @@ TrustDA refines LLM trustworthiness benchmarks through data distillation and sem
 
 # 🏆 Honors and Awards
 
-- *2024 & 2025*: **National Scholarship**, Highest honor for undergraduates in China,  *2024 & 2025*
-- *2024 – 2026*: **Merit Student**, Huazhong University of Science and Technology  *2024–2026*
-- *2025*: Excellent Undergraduate Student, Huazhong University of Science and Technology
+- **National Scholarship** *(2024&2025)*, Highest honor for undergraduates in China,  *2024 & 2025*
+- **Merit Student** *(2024-2026)*, Huazhong University of Science and Technology  *2024–2026*
+- **Excellent Undergraduate Student** *(2025)*, Huazhong University of Science and Technology
 
 # 💻 Internships
 
-- *Jul 2026 – Oct 2026*: **Research Intern**, Graphics & Geometric Computing Group, Tsinghua University
+- **Research Intern** *(Jul 2026 – Oct 2026)*, Graphics & Geometric Computing Group, Tsinghua University
   - Working on procedural 3D scene modeling for embodied simulation environments.
-- *Jul 2025 – Nov 2025*: **Research Intern**, State Key Laboratory for Novel Software Technology, Nanjing University
+- **Research Intern** *(Jul 2025 – Nov 2025)*, State Key Laboratory for Novel Software Technology, Nanjing University
   - Worked on the compliance assessment of multi-party large language models.
 
 # 📖 Education
 
-- *2023 – 2027 (expected)*: **B.Eng. in Information Security**, Huazhong University of Science and Technology  
+- *2023–2027 (expected)*, **B.Eng. in Information Security**, Huazhong University of Science and Technology  
 
 
 
